@@ -5,4 +5,4 @@ my experiences and blogging about how I conquered these challenges
 through learning a new language.
 
 # Table of Contents
-* [**Entry 1**](entries/entry01-plan)
+* [**Entry 1**](entries/entry01-plan.md)
