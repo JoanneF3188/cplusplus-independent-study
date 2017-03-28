@@ -33,5 +33,7 @@ I just want to get the jist of it down, for now.
 The major takeaway that I had to is that I really like to challenge myself
 a lot, to the point where I may be over-estimating myself, but I believe that
 with encouragement from my friends, classmates, teachers and motivation to
-learn the kanguage, I believe that I am able to overcome this challenge and
+learn the language, I believe that I am able to overcome this challenge and
 learn C++.
+
+[**Back**](README.md)
