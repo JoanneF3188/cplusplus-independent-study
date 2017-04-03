@@ -37,5 +37,4 @@ learn the language, I believe that I am able to overcome this challenge and
 learn C++.
 
 [**Menu**](../README.md)
-
 [**Next**](entry02-baby-steps.md)
