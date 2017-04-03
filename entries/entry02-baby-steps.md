@@ -10,7 +10,7 @@ Something that I learned from my research, so far, was that there are a lot of d
 libraries within C++ and is included by inputting it in the header.
 
 For example:
-```
+``` C
 #include <iostream>
  
 int main()
