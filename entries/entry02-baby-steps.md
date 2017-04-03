@@ -10,6 +10,7 @@ Something that I learned from my research, so far was that there are a lot of di
 libraries within C++ and is included by inputting it in the header.
 
 For example:
+<br>
 <img src="../images/cpp-libraries.png"/>
 
 
