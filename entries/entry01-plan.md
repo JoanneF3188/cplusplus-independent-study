@@ -36,4 +36,6 @@ with encouragement from my friends, classmates, teachers and motivation to
 learn the language, I believe that I am able to overcome this challenge and
 learn C++.
 
-[**Back**](../README.md)
+[**Menu**](../README.md)
+
+[**Next**](entry02-baby-steps.md)
