@@ -40,4 +40,4 @@ javascript.
 A takeaway that I had from this is that you should always keep track of your references
 and college slides are also a great reference in learning a new language.
 
-[**Back**](entry01-plan.md) [**Menu**](../README.md) [**Next**](entry03-.md) 
+[**Back**](entry01-plan.md) [**Menu**](../README.md) [**Next**](entry03-starting.md) 
