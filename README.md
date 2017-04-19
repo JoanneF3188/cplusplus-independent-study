@@ -7,7 +7,7 @@ through learning a new language.
 # Table of Contents
 * [**Entry 1**](entries/entry01-plan.md)
 * [**Entry 2**](entries/entry02-baby-steps.md)
-* [**Entry 3**](entries/entry03-.md)
+* [**Entry 3**](entries/entry03-starting.md)
 * [**Entry 4**](entries/entry04-.md)
 * [**Entry 5**](entries/entry05-.md)
 * [**Entry 6**](entries/entry06-.md)
