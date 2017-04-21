@@ -65,4 +65,4 @@ everyone has their own style of learning and it is best when you can
 understand it and put it into your own words and style your own resources.
 
 
-[**Back**](entry02-baby-steps.md) [**Menu**](../README.md) [**Next**](entry04-.md) 
+[**Back**](entry02-baby-steps.md) [**Menu**](../README.md) [**Next**](entry04-the-exploring.md) 

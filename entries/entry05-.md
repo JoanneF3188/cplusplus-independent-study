@@ -14,4 +14,4 @@
 
 
 
-[**Back**](entry04-.md) [**Menu**](../README.md) [**Next**](entry06-.md) 
+[**Back**](entry04-the-exploring.md) [**Menu**](../README.md) [**Next**](entry06-.md) 
