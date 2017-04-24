@@ -17,13 +17,17 @@ it worsens the performance of the output. So, programmers use `\n` more often th
 
 ## Brain Thoughts/Questions to Answer
 
-
 * Cool starting programs to code
-1. [](http://projects.icbse.com/cpp-170)
-2. [](https://www.quora.com/What-are-some-cool-small-C++-programs#)
+1. [CBSE Projects](http://projects.icbse.com/cpp-170)
+2. [Quora 'What are some cool, small C++ programs?'](https://www.quora.com/What-are-some-cool-small-C++-programs#)
 
 ## Takeaways
 
+Referring to my previous entry, I know that in order for me to fully understand a concept, 
+I need to turn it into something that I, myself can understand. Therefore, through the
+week, I have been researching ways for me to fully understand a line of code. Although,
+to many, this may seem like a waste of time -and I agree, it was very time consuming- I
+feel that it is very essential for me to fully understand before I can move on
 
 [**Back**](entry03-starting.md) [**Menu**](../README.md) [**Next**](entry05-.md) 
 
