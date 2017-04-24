@@ -27,7 +27,7 @@ Referring to my previous entry, I know that in order for me to fully understand 
 I need to turn it into something that I, myself can understand. Therefore, through the
 week, I have been researching ways for me to fully understand a line of code. Although,
 to many, this may seem like a waste of time -and I agree, it was very time consuming- I
-feel that it is very essential for me to fully understand before I can move on
+feel that it is very essential for me to fully understand before I can move on.
 
 [**Back**](entry03-starting.md) [**Menu**](../README.md) [**Next**](entry05-.md) 
 
@@ -35,4 +35,3 @@ feel that it is very essential for me to fully understand before I can move on
 
 * [CPP Reference](http://en.cppreference.com/w/cpp/io/manip/endl)
 * [Stack Overflow](http://stackoverflow.com/questions/213907/c-stdendl-vs-n)
-* 
