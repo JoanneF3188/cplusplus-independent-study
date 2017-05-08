@@ -29,7 +29,7 @@ week, I have been researching ways for me to fully understand a line of code. Al
 to many, this may seem like a waste of time -and I agree, it was very time consuming- I
 feel that it is very essential for me to fully understand before I can move on.
 
-[**Back**](entry03-starting.md) [**Menu**](../README.md) [**Next**](entry05-.md) 
+[**Back**](entry03-starting.md) [**Menu**](../README.md) [**Next**](entry05-outputting-user-info.md) 
 
 ### References
 

@@ -14,4 +14,4 @@
 
 
 
-[**Back**](entry06-.md) [**Menu**](../README.md) [**Next**](entry08-.md) 
+[**Back**](entry06-deciding-what-to-do.md) [**Menu**](../README.md) [**Next**](entry08-.md) 
