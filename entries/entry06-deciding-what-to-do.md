@@ -44,9 +44,6 @@ int main()
     user();
     comp();
 }
-
-// http://www.cplusplus.com/forum/beginner/98214/
-// http://www.cplusplus.com/doc/tutorial/functions/
 ```
 
 Currently, my code can only output the choice and the randomized choice. For my next steps,
@@ -55,17 +52,18 @@ a tie.
 
 ## Next Steps/Reminders
 
-1. **Finished getting choices**
-2. **Now, find a way to determine who wins and who loses OR ties**
+**1.** Finished getting choices
+
+**2.** Now, find a way to determine who wins and who loses OR ties
 
 ## Takeaways
 #### MVP
-**!! It was a good idea to start off with smaller projects because once I have utilized the
+!! It was a good idea to start off with smaller projects because once I have utilized the
 code in my own way, I am able to be comfortable with using code that I can alter and tinker
-with !!**
+with !!
 
 #### Google = BEST FRIEND
-**I can't seem to emphasize enough that google is really a useful resource because throughout
+I can't seem to emphasize enough that google is really a useful resource because throughout
 this mini project, Google has helped me so much in finding the right code that I am unfamiliar with**
 
 [**Back**](entry05-outputting-user-info.md) [**Menu**](../README.md) [**Next**](entry07-busy-bee.md) 

@@ -4,7 +4,7 @@ learning a new language, my class would always learn how to output strings and f
 So, I decided to try to find out how I could output strings with the user's input. 
 
 ## What I learned/Questions Answered
-* Getline  
+* Getline
 
 **Questions from Entry 3** 
 [preprocessor directives c++](https://www.google.com/search?q=Preprocessor+directive&oq=Preprocessor+directive&aqs=chrome..69i57.366j0j1&sourceid=chrome&es_sm=91&ie=UTF-8#safe=strict&q=preprocessor+directives+c%2B%2B)
