@@ -11,9 +11,9 @@ through learning a new language.
 * [**Entry 4**](entries/entry04-the-exploring.md)
 * [**Entry 5**](entries/entry05-outputting-user-info.md)
 * [**Entry 6**](entries/entry06-deciding-what-to-do.md)
-* [**Entry 7**](entries/entry07-.md)
-* [**Entry 8**](entries/entry08-.md)
-* [**Entry 9**](entries/entry09-.md)
+* [**Entry 7**](entries/entry07-busy-bee.md)
+<!--* [**Entry 8**](entries/entry08-.md)-->
+<!--* [**Entry 9**](entries/entry09-.md)-->
 
 ## Markdown References
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

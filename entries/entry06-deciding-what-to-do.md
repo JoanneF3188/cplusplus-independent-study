@@ -68,4 +68,4 @@ with !!**
 **I can't seem to emphasize enough that google is really a useful resource because throughout
 this mini project, Google has helped me so much in finding the right code that I am unfamiliar with**
 
-[**Back**](entry05-outputting-user-info.md) [**Menu**](../README.md) [**Next**](entry07-.md) 
+[**Back**](entry05-outputting-user-info.md) [**Menu**](../README.md) [**Next**](entry07-md) 
