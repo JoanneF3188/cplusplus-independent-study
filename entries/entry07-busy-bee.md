@@ -2,8 +2,8 @@
 
 <img src="../images/home-alone.gif"/>
 
-Attack of APs!! Oh my goodness! This week has been quite busy so far.
-
+Attack of APs!! Oh my goodness! This week has been quite busy so far. 
+I am currently still stuck on the 
 
 ## What I learned
 
