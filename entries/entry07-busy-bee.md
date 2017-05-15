@@ -67,9 +67,11 @@ int main()
 
 
 ## Takeaways
-
 #### Take your time to read EVERYTHING
-As we get 
+As we get more and more busy with trying to finish our projects, we will be 
+tempted to want to just skip and rush over eveything. Sometimes, we just need
+to take some time and slowly read everything to make sure we understand each
+line of code.
 
 [**Back**](entry06-deciding-what-to-do.md) [**Menu**](../README.md) 
 <!--[**Next**](entry08-.md) -->
