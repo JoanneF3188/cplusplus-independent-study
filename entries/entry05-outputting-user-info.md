@@ -38,4 +38,4 @@ functions.
 ## Refernces
 * http://www.cplusplus.com/forum/beginner/111268/
 
-[**Back**](entry04-the-exploring.md) [**Menu**](../README.md) [**Next**](entry06-.md) 
+[**Back**](entry04-the-exploring.md) [**Menu**](../README.md) [**Next**](entry06-deciding-what-to-do.md) 
