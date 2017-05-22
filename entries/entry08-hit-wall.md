@@ -23,7 +23,7 @@ easier.
 
 Some tutorials that I have found are:
 
-* <a href="http://www.cplusplus.com/doc/tutorial/"><img src="../images/c-plus-plus-tutorial-1.png"/></a>
+* <a href="http://www.cplusplus.com/doc/tutorial/"><img src="images/c-plus-plus-tutorial-1.png"/></a>
 
 
 <!--* [<img src="../images/c-plus-plus-tutorial-1.png"/>](http://www.cplusplus.com/doc/tutorial/)-->
