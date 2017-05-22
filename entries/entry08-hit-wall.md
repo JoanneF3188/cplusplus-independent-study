@@ -7,7 +7,7 @@ how to make the rock, papers, scissor game to work. Therefore, what I am
 planning to do from now on is to create a tutorial within my last week of my
 9 week project. I have learned a lot since I have started my project, but with
 the limited resources and time that I have available, I was not able to create
-something with C++. Therefore, like the wall on platform 9 and 3/4, there's a
+something with C++. But, like the wall on platform 9 and 3/4, there's a
 way through it.
 
 <img src="../images/harry-potter.gif"/>
@@ -23,8 +23,11 @@ easier.
 
 Some tutorials that I have found are:
 
-* [<img src="../images/c-plus-plus-tutorial-1.png"/>](http://www.cplusplus.com/doc/tutorial/)
-* [<img src="../images/c-plus-plus-tutorial-2.png"/>](http://www.cprogramming.com/tutorial/lesson1.html)
+* <a href="http://www.cplusplus.com/doc/tutorial/">(../images/c-plus-plus-tutorial-1.png)</a>
+
+
+<!--* [<img src="../images/c-plus-plus-tutorial-1.png"/>](http://www.cplusplus.com/doc/tutorial/)-->
+<!--* [<img src="../images/c-plus-plus-tutorial-2.png"/>](http://www.cprogramming.com/tutorial/lesson1.html)-->
 
 ## Takeaways
 #### There's always a way AROUND and don't give up!!
