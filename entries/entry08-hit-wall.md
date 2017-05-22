@@ -23,8 +23,8 @@ easier.
 
 Some tutorials that I have found are:
 
-* <img src="../images/c-plus-plus-tutorial-1.png"/> http://www.cplusplus.com/doc/tutorial/
-* <img src="../images/c-plus-plus-tutorial-2.png"/> http://www.cprogramming.com/tutorial/lesson1.html
+<img src="../images/c-plus-plus-tutorial-1.png"/> http://www.cplusplus.com/doc/tutorial/
+<img src="../images/c-plus-plus-tutorial-2.png"/> http://www.cprogramming.com/tutorial/lesson1.html
 
 ## Takeaways
 #### There's always a way AROUND and don't give up!!
