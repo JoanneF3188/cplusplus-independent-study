@@ -73,5 +73,4 @@ tempted to want to just skip and rush over eveything. Sometimes, we just need
 to take some time and slowly read everything to make sure we understand each
 line of code.
 
-[**Back**](entry06-deciding-what-to-do.md) [**Menu**](../README.md) 
-<!--[**Next**](entry08-.md) -->
+[**Back**](entry06-deciding-what-to-do.md) [**Menu**](../README.md) [**Next**](entry08-hit-wall.md) 
