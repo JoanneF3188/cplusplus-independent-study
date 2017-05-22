@@ -24,9 +24,9 @@ easier.
 Some tutorials that I have found are:
 
 <a href="http://www.cplusplus.com/doc/tutorial/"><img src="../images/c-plus-plus-tutorial-1.PNG"/></a>
-<!--<img src="../images/c-plus-plus-tutorial-1.PNG"/> http://www.cplusplus.com/doc/tutorial/-->
 
-<img src="../images/c-plus-plus-tutorial-2.PNG"/> http://www.cprogramming.com/tutorial/lesson1.html
+<a href="http://www.cprogramming.com/tutorial/lesson1.html"><img src="../images/c-plus-plus-tutorial-2.PNG"/></a>
+
 
 ## Takeaways
 #### There's always a way AROUND and don't give up!!
